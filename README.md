@@ -17,7 +17,7 @@ A Python tool that performs a continuous traceroute using DNS packets, displayin
 Just Clone the repository
 
 ## Usage
-./dnstrace.py [-h] [--interval INTERVAL] [--max-hops MAX_HOPS] dst_ip domain
+sudo python3 dnstrace.py [-h] [--interval INTERVAL] [--max-hops MAX_HOPS] dst_ip domain
 
 ## License
 MIT License (see LICENSE file).
